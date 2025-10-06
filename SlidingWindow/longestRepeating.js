@@ -4,6 +4,8 @@ class Solution {
      * @param {number} k
      * @return {number}
      */
+
+    //had to look up solution
     characterReplacement(s, k) {
         let count = {};
         let left = 0;
